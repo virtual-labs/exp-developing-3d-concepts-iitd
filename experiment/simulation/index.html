@@ -1,25 +1,45 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
+    <style>
+        /* Center the video and reduce its size */
+        .iv-player_responsive_wrapper {
+            width: 70vw; /* Set width to 70% of viewport width */
+            max-width: 800px; /* Optional: max width to prevent it from getting too large */
+            margin: 0 auto; /* Center horizontally */
+            position: relative;
+            height: 100%;
+        }
+        .iv-player_responsive_padding {
+            padding: 39.375% 0 0 0; /* Adjusted padding to maintain 16:9 aspect ratio (70% * 9/16) */
+            position: relative;
+        }
+        .iv-player_embed {
+            height: 100%;
+            width: 100%;
+            position: relative;
+        }
+        .iv-player_swatch img {
+            filter: blur(5px);
+            height: 50%;
+            object-fit: contain;
+            width: 50%;
+        }
+    </style>
 </head>
 <body>
-		<!-- Your code goes here-->
-<div class="iv-player_responsive_padding" style="padding:56.25% 0 0 0;position:relative;" data-hash="68384f159ddec">
-    <div class="iv-player_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
-        <div class="iv-player_embed iv-player_async_p2z7746nud videoFoam=true" style="height:100%;position:relative;width:100%">
-            <div class="iv-player_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;width:100%;">
-                <img 
-					src="https://i-fast.b-cdn.net/live/18322_680b4fe07c3ac.png" 
-					style="filter:blur(5px);height:50%;object-fit:contain;width:50%;" 
-					alt="" aria-hidden="true" />
+    <div class="iv-player_responsive_padding" data-hash="68384f159ddec">
+        <div class="iv-player_responsive_wrapper">
+            <div class="iv-player_embed iv-player_async_p2z7746nud videoFoam=true">
+                <div class="iv-player_swatch">
+                    <img 
+                        src="https://i-fast.b-cdn.net/live/18322_680b4fe07c3ac.png" 
+                        alt="" 
+                        aria-hidden="true" />
+                </div>
             </div>
         </div>
     </div>
-</div>
-	<!-- Add JS at the bottom of HTML file --> 
-<script type="text/javascript" src="https://videosuite-player-wrapper.vercel.app/assets" async></script>
-
+    <script type="text/javascript" src="https://videosuite-player-wrapper.vercel.app/assets" async></script>
 </body>
 </html>
