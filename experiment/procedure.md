@@ -8,7 +8,7 @@
             <div class="iv-player_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;width:100%;">
                 <img 
                     src="https://i-fast.b-cdn.net/live/18322_680b4fe07c3ac.png" 
-                    style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" 
+                    style="filter:blur(5px);height:50%;object-fit:contain;width:50%;" 
                     alt="" aria-hidden="true" />
             </div>
         </div>
