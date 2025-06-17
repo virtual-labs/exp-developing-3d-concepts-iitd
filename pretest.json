@@ -1,0 +1,52 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the first step in creating a 3D representation of a concept?",
+      "answers": {
+        "a": "Start with UV unwrapping and texturing",
+        "b": "Finalize the narrative and interaction flows",
+        "c": "Apply modifiers for smooth modeling"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is NOT a step in software selection?",
+      "answers": {
+        "a": "Installing and configuring the required software",
+        "b": "Experimenting with lighting setups",
+        "c": "Choosing software based on needs (e.g., Blender, ZBrush)"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the purpose of low-fidelity prototypes during the prototyping phase?",
+      "answers": {
+        "a": "To finalize textures and materials",
+        "b": "To test the concept and gather user feedback",
+        "c": "To enhance the final render quality"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
