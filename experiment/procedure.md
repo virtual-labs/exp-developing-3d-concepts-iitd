@@ -1,3 +1,3 @@
 ### Procedure
 
-![Developing concepts into 3D procedure](./images/procedure.jpg)
+![Developing concepts into 3D procedure](./images/procedure.png)
