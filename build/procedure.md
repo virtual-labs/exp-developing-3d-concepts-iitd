@@ -1,3 +1,3 @@
 ### Procedure
 
-<img src="/experiment/theory.webp">
+![Developing concepts into 3D procedure](./images/procedure.png)
