@@ -1,3 +1,3 @@
 ### Procedure
 
-<img src="/experiment/theory.png" >
+<img src="/experiment/theory.webp">
