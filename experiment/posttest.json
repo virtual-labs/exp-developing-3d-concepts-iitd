@@ -8,11 +8,6 @@
         "b": "It ensures the model can be animated or sculpted without issues",
         "c": "It simplifies the UV unwrapping process"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -22,11 +17,6 @@
         "a": "Sculpting for organic shapes",
         "b": "Setting up the lighting and environment",
         "c": "Post-processing in Photoshop"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -38,13 +28,9 @@
         "b": "Detailed development requirements for assets and interactions",
         "c": "Finalized renders for presentation"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2"
-      },
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
 }
+
